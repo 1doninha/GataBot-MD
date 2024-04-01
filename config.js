@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["559985454165", '𝙊𝙬𝙣𝙚𝙧 🗿🍷', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["559985454165"]]
+["559285013050"]]
 
 global.mods = ["559285013050"]
 global.prems = ["559285013050"]
