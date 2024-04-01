@@ -123,8 +123,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝐃𝐀𝐑𝐓𝐇-𝐌𝐃"
-global.author = "𝐁𝐈𝐆 𝐌𝐂"
+global.packname = "*𝙳𝙾𝙽𝙸𝙽𝙷𝙰 𝙼𝙳*"
+global.author = "*𝚂𝙸𝙻𝚅𝙸𝙽𝙷𝙰🧸*"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -132,7 +132,7 @@ global.author = "𝐁𝐈𝐆 𝐌𝐂"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝐃𝐀𝐑𝐓𝐇 𝐌𝐃"
+global.gt = "*𝚂𝙸𝙻𝚅𝙸𝙽𝙷𝙰🧸*"
 
 global.yt = "https://youtube.com/@bigmc3430"
 global.yt2 = "https://youtube.com/@bigmc3430"
@@ -164,36 +164,36 @@ global.channel2 = 'https://chat.whatsapp.com/CqPaNu7j9tv8kIVYJ23TgI'
 global.channel3 = 'https://t.me/globalgb'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
+global.rg = '╰⊱✅⊱ *RESULTADO* ⊱✅⊱╮\n\n'
 global.resultado = rg
 
-global.ag = '╰⊱⚠️⊱ *𝐀𝐃𝐕𝐄𝐑𝐓𝐄̂𝐍𝐂𝐈𝐀* ⊱⚠️⊱╮\n\n'
+global.ag = '╰⊱⚠️⊱ *ADVERTÊNCIA* ⊱⚠️⊱╮\n\n'
 global.advertencia = ag
 
-global.iig = '╰⊱❕⊱ *𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂̧𝐀̃𝐎* ⊱⊱╮\n\n'
+global.iig = '╰⊱❕⊱ *INFORMAÇÃO* ⊱⊱╮\n\n'
 global.informacion = iig
 
-global.fg = '╰⊱❌⊱ *𝐄𝐑𝐑𝐎𝐑* ⊱❌⊱╮\n\n'
+global.fg = '╰⊱❌⊱ *ERRO* ⊱❌⊱╮\n\n'
 global.fallo = fg
 
 global.mg = '╰⊱❗️⊱ *𝙇𝙊 𝙐𝙎𝙊́ 𝙈𝘼𝙇* ⊱❗️⊱╮\n\n'
 global.mal = mg
 
-global.eeg = '╰⊱📩⊱ *𝙍𝙀𝙋𝙊𝙍𝙏𝙀* ⊱📩⊱╮\n\n'
+global.eeg = '╰⊱📩⊱ *REPORTE* ⊱📩⊱╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊* ⊱💚⊱╮\n\n'
+global.eg = '╰⊱💚⊱ *SUCESSO* ⊱💚⊱╮\n\n'
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝐃𝐀𝐑𝐓𝐇-𝐌𝐃 : 𝐁𝐈𝐆"
-global.igfg = "𝐃𝐀𝐑𝐓𝐇-𝐌𝐃"
+global.wm = "*𝙳𝙾𝙽𝙸𝙽𝙷𝙰 𝙼𝙳* : *𝚂𝙸𝙻𝚅𝙸𝙽𝙷𝙰🧸*"
+global.igfg = "*𝚂𝙸𝙻𝚅𝙸𝙽𝙷𝙰🧸*"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "559285013050"
+global.nomorown = "559985454165"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
